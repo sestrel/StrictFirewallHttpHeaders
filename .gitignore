@@ -1,0 +1,32 @@
+# Rivals
+.svn
+.hg
+# Mac OS
+.DS_Store
+# Editor backup
+*.swp
+*~
+# IntelliJ IDEA project config
+.idea/
+*.iws
+*.ipr
+*.iml
+# Eclipse
+bin/
+.project
+.classpath
+.openjpaenhance
+.externalToolBuilders
+# Gradle
+.settings/
+.gradle/
+build/
+bin/
+# Maven
+target/
+.mvn/
+node_modules/
+.stencil/
+dist/
+www/
+.vscode/
